@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{476DCD40-3B1D-08B8-55B1-D0621409B729}") = "PrimeMoba", "Assembly-CSharp.csproj", "{6067D73A-8ACB-2D31-5392-443C33958F1C}"
+EndProject
+Project("{476DCD40-3B1D-08B8-55B1-D0621409B729}") = "PrimeMoba", "Assembly-CSharp-Editor.csproj", "{7606C1BC-DAE8-7EE1-BB2D-D2A7A7E1F9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6067D73A-8ACB-2D31-5392-443C33958F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6067D73A-8ACB-2D31-5392-443C33958F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6067D73A-8ACB-2D31-5392-443C33958F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6067D73A-8ACB-2D31-5392-443C33958F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7606C1BC-DAE8-7EE1-BB2D-D2A7A7E1F9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7606C1BC-DAE8-7EE1-BB2D-D2A7A7E1F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7606C1BC-DAE8-7EE1-BB2D-D2A7A7E1F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7606C1BC-DAE8-7EE1-BB2D-D2A7A7E1F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
